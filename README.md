@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact **I can eat unlimited amounts of peanuts**
 
+<h3>GitHub activity</h3>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelkalveram&" alt="marcelkalveram" /></p>
+
 <h3>Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/marcelkalveram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelkalveram" height="30" width="40" /></a>
@@ -18,9 +22,3 @@
 <a href="https://www.goodreads.com/user/show/41759252-marcel" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Goodreads_%27g%27_logo.svg" alt="marcelkalveram" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1372110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1372110" height="30" width="40" /></a>
 </p>
-
-<h3>GitHub activity</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marcelkalveram&show_icons=true&locale=en" alt="marcelkalveram" />
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelkalveram&" alt="marcelkalveram" /></p>
