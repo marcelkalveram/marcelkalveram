@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcelkalveram.com/projects](https://marcelkalveram.com/projects)
 
-- 📝 I occasionally write articles on [https://marcelkalveram.com/articles](https://medium.com/@marcelkalveram)
+- 📝 I occasionally write articles on [https://medium.com/@marcelkalveram](https://medium.com/@marcelkalveram)
 
 - 💬 Ask me about **Frontend, Product Engineering and Software Architecture**
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marcelkalveram&show_icons=true&locale=en" alt="marcelkalveram" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelkalveram&" alt="marcelkalveram" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelkalveram&" alt="marcelkalveram" /></p>
