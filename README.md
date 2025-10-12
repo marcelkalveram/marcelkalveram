@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcelkalveram.com/projects](https://marcelkalveram.com/projects)
 
-- 📝 I regularly write articles on [https://marcelkalveram.com/articles](https://marcelkalveram.com/articles)
+- 📝 I regularly write articles on [https://marcelkalveram.com/articles](https://medium.com/@marcelkalveram)
 
 - 💬 Ask me about **Frontend, product, architecture and good coffee.**
 
