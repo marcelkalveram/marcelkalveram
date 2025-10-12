@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Marcel</h1>
-<h3>Product Engineer/Frontend Architect</h3>
+<h3>Product Engineer @Datamaran</h3>
 
 - 🔭 I’m currently working on [awesome-product-engineer](https://github.com/marcelkalveram/awesome-product-engineer)
 
@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I can eat unlimited amounts of peanuts**
 
 <h3>Connect with me:</h3>
-<p >
+<p>
 <a href="https://twitter.com/marcelkalveram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcelkalveram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcelkalveram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelkalveram" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1372110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1372110" height="30" width="40" /></a>
