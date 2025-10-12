@@ -1,15 +1,15 @@
 <h1>Hi 👋, I'm Marcel</h1>
 <h3>Product Engineer @Datamaran</h3>
 
-- 🔭 I’m currently working on [awesome-product-engineer](https://github.com/marcelkalveram/awesome-product-engineer)
+- 🎧 I’m currently working on [awesome-product-engineer](https://github.com/marcelkalveram/awesome-product-engineer)
 
-- 👨‍💻 All of my projects are available at [https://marcelkalveram.com/projects](https://marcelkalveram.com/projects)
+- 🤖 All of my projects are available at [https://marcelkalveram.com/projects](https://marcelkalveram.com/projects)
 
-- 📝 I occasionally write articles on [https://medium.com/@marcelkalveram](https://medium.com/@marcelkalveram)
+- ✍️ I occasionally write articles on [https://medium.com/@marcelkalveram](https://medium.com/@marcelkalveram)
 
 - 💬 Ask me about **Frontend, Product Engineering and Software Architecture**
 
-- ⚡ Fun fact **I can eat unlimited amounts of peanuts**
+- 🥜 Fun fact: **I can eat unlimited amounts of peanuts**
 
 <h3>GitHub activity</h3>
 
